@@ -1,3 +1,3 @@
 # hello-world
 To become familiar with GitHub.
-Just following the the 'Hello World' tutorial.
+Just following the 'Hello World' tutorial.
